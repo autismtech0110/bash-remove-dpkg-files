@@ -1,0 +1,43 @@
+(Reading database ... 374911 files and directories currently installed.)
+Removing libxfce4panel-2.0-4 (4.18.2-1) ...
+Processing triggers for libc-bin (2.36-9+deb12u10) ...
+{libxfce4panel-2.0-4} has been uninstalled.
+{libxfce4ui-2-0:amd64} has been uninstalled.
+{libxfce4ui-common} has been uninstalled.
+{libxfce4util-common} has been uninstalled.
+{libxfce4util7:amd64} has been uninstalled.
+{xfce4-clipman} has been uninstalled.
+(Reading database ... 374903 files and directories currently installed.)
+Removing xfce4-helpers (4.18.2-1) ...
+{xfce4-helpers} has been uninstalled.
+{xfce4-notifyd} has been uninstalled.
+{xfce4-panel} has been uninstalled.
+(Reading database ... 374839 files and directories currently installed.)
+Removing xfce4-power-manager (4.18.1-1) ...
+Processing triggers for man-db (2.11.2-2) ...
+Processing triggers for mate-menus (1.26.0-3) ...
+Processing triggers for mailcap (3.70+nmu1) ...
+Processing triggers for desktop-file-utils (0.26-1) ...
+{xfce4-power-manager} has been uninstalled.
+(Reading database ... 374827 files and directories currently installed.)
+Removing xfce4-power-manager-data (4.18.1-1) ...
+Processing triggers for man-db (2.11.2-2) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+{xfce4-power-manager-data} has been uninstalled.
+{xfce4-session} has been uninstalled.
+{xfce4-settings} has been uninstalled.
+{xfce4-whiskermenu-plugin:amd64} has been uninstalled.
+Checking for any remaining XFCE files in dpkg...
+ri  libxfce4ui-2-0:amd64                   4.18.2-2                             amd64        widget library for Xfce - Gtk+3 variant
+ri  libxfce4ui-common                      4.18.2-2                             all          common files for libxfce4ui
+ri  libxfce4util-common                    4.18.1-2                             all          common files for libxfce4util
+ri  libxfce4util7:amd64                    4.18.1-2                             amd64        Utility functions library for Xfce4
+rc  xfce4-clipman                          2:1.6.2-1                            amd64        clipboard history utility
+rc  xfce4-helpers                          4.18.2-1                             amd64        helpers for the Xfce4 desktop environment
+rc  xfce4-notifyd                          0.7.3-1                              amd64        simple, visually-appealing notification daemon for Xfce
+rc  xfce4-panel                            4.18.2-1                             amd64        panel for Xfce4 desktop environment
+rc  xfce4-power-manager                    4.18.1-1                             amd64        power manager for Xfce desktop
+rc  xfce4-session                          4.18.1-1                             amd64        Xfce4 Session Manager
+rc  xfce4-settings                         4.18.2-1                             amd64        graphical application for managing Xfce settings
+rc  xfce4-whiskermenu-plugin:amd64         2.7.2-1                              amd64        Alternate menu plugin for the Xfce desktop environment
+Cleaning up temporary text files...
